@@ -1,5 +1,5 @@
 module.exports = {
     publicPath: process.env.NODE_ENV === 'production'
-    ? '/final-project-vue/'
+    ? '/CodeMingo21.github.io/'
     : '/'
 }
